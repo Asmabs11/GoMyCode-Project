@@ -1,0 +1,49 @@
+
+h1 {color:palevioletred;   
+    border :1px solid palevioletred;
+    background-color: plum;
+    font-family:roboto;
+    text-align: center;
+     width: 500px;
+     margin-left: 400px;
+}
+h2 {color:purple;
+    font-family: roboto;
+}
+p{display: inline;
+font-family: roboto;
+
+}
+h3 {color:rgb(15, 102, 73);
+border :3px solid aquamarine;
+width: 300px;}
+li {font-size:larger;}
+
+#title1 {
+    color: green
+}
+
+.title {
+    color: green;
+}
+
+iframe {
+    margin-left: 400px;
+}
+li {margin-bottom: 20px;
+font-weight: bold;
+background-color: rgb(168, 165, 165);padding: .5em;
+width: 700px;
+}
+a {color: blue;
+font-weight: bolder;}
+
+/* div{display: block;} */
+
+.block{
+    display: inline-block;
+
+}
+.title{
+    display:inline;
+    }
